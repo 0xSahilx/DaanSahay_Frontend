@@ -32,7 +32,7 @@ const Mission = () => {
                     </div>
                 </div>
                 <div className="fixed inset-0 bg-black bg-opacity-80 z-50 hidden">
-                    <span class="absolute top-32 right-16 text-5xl font-bold text-white cursor-pointer z-50">&times;</span>
+                    <span className="absolute top-32 right-16 text-5xl font-bold text-white cursor-pointer z-50">&times;</span>
                     <img src="img/gallery/1.jpg" alt="gallery-img" className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 border-4 border-white w-96 object-cover"/>
                 </div>
             </div>
